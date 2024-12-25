@@ -23,7 +23,7 @@ Ce projet est une implémentation PHP pour interagir avec l'API MoMo Developer d
 
 1. **Clonez ce dépôt ou copiez le code** :
    ```bash
-   git clone https://votre-repo-git.com
+   git clone https://github.com/SixteNow/api-mtn-benin.git
    ```
 2. **Installez les dépendances** :
    ```bash
